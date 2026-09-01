@@ -30,4 +30,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0100-same-tree/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3718-smallest-missing-multiple-of-k](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3718-smallest-missing-multiple-of-k](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 <!---LeetCode Topics End-->
