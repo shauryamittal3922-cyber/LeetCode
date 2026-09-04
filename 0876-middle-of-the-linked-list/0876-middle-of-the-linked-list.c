@@ -6,7 +6,7 @@
  * };
  */
 struct ListNode* middleNode(struct ListNode* head) {
-    if(head == NULL) return NULL;
+    if(head == NULL || head->next == NULL) return head;
     struct ListNode* slow = head, * fast = head;
 
     while(fast != NULL && fast->next != NULL){
