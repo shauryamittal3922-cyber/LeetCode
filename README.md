@@ -47,6 +47,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,4 +81,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0169-majority-element/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3903-smallest-stable-index-i](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 <!---LeetCode Topics End-->
