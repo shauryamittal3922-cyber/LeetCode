@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -57,6 +58,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Dynamic Programming
@@ -70,6 +72,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
