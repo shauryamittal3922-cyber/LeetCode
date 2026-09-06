@@ -61,6 +61,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Two Pointers
@@ -99,4 +100,8 @@
 | [1148-article-views-i](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/1148-article-views-i/) | Easy |
 | [1683-invalid-tweets](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 <!---LeetCode Topics End-->
