@@ -30,10 +30,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0100-same-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0100-same-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,6 +44,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0100-same-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
