@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0061-rotate-list](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
@@ -94,6 +95,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
