@@ -64,6 +64,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0835-image-overlap](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -163,4 +164,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0835-image-overlap](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0835-image-overlap/) | Medium |
 <!---LeetCode Topics End-->
