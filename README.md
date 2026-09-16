@@ -20,6 +20,7 @@
 | [0002-add-two-numbers](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0836-rectangle-overlap](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3870-count-commas-in-range](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -92,6 +93,7 @@
 | [0118-pascals-triangle](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Two Pointers
@@ -130,6 +132,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Database
@@ -181,4 +184,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 <!---LeetCode Topics End-->
