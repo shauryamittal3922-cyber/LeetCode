@@ -9,7 +9,7 @@ struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2) {
     struct ListNode* head = NULL, * tail = NULL;
     int c = 0;
 
-    while(l1 != NULL || l2 != NULL || c != 0){
+    while(l1 != NULL || l2 != NULL || c!= 0){
         int sum = c;
 
         if(l1 != NULL){
@@ -21,15 +21,15 @@ struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2) {
             sum += l2->val;
             l2 = l2->next;
         }
+
         c = sum/10;
 
         struct ListNode* newNode = (struct ListNode *)malloc(sizeof(struct ListNode));
-
         newNode->val = sum % 10;
         newNode->next = NULL;
 
         if(head == NULL){
-            head = newNode;
+            head = newNode; 
             tail = newNode;
         }
         else{
