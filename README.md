@@ -19,6 +19,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0013-roman-to-integer](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0836-rectangle-overlap](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
@@ -82,6 +83,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0169-majority-element/) | Easy |
@@ -156,6 +158,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0115-distinct-subsequences](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0242-valid-anagram](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
