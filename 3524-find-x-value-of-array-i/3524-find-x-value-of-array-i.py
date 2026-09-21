@@ -1,21 +1,21 @@
 class Solution:
     def resultArray(self, nums: List[int], k: int) -> List[int]:
         result = [0] * k
-        prev_rem = [0] * k
+        prev_count = [0] * k
 
         for num in nums:
-            curr_rem = [0] * k
+            curr_count = [0] * k
 
             for rem in range(k):
-                if(prev_rem[rem] > 0):
+                if(prev_count[rem] > 0):
                     new_rem = (rem * num) % k
-                    curr_rem[new_rem] += prev_rem[rem]
+                    curr_count[new_rem] += prev_count[rem]
 
-            curr_rem[num % k] += 1
+            curr_count[num % k] += 1
 
             for i in range(k):
-                result[i] += curr_rem[i]
+                result[i] += curr_count[i]
 
-            prev_rem = curr_rem
+            prev_count = curr_count
         
         return result
