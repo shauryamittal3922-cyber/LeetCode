@@ -25,6 +25,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3870-count-commas-in-range](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -83,6 +84,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -225,4 +227,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 <!---LeetCode Topics End-->
