@@ -42,11 +42,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0100-same-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0100-same-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -56,6 +58,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0100-same-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -176,6 +179,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0144-binary-tree-preorder-traversal](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
