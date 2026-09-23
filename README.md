@@ -81,6 +81,7 @@
 | [0485-max-consecutive-ones](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0835-image-overlap](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -101,6 +102,7 @@
 | [0242-valid-anagram](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Dynamic Programming
@@ -156,6 +158,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Database
@@ -200,6 +203,7 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -223,6 +227,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
