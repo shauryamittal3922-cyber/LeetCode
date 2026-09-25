@@ -1,22 +1,36 @@
 class Solution:
     def braceExpansionII(self, expression: str) -> list[str]:
-        res = set()
+        def helper(s):
+            parts = set()
+            curr = {""}
+            i = 0
 
-        def dfs(exp: str):
-            j = exp.find('}')
+            while i < len(s):
+                if s[i] == '{':
+                    j = i
+                    depth = 0
 
-            if j == -1:
-                res.add(exp)
-                return
-            
-            i = exp.rfind('{', 0, j)
+                    while 1:
+                        if s[j] == '{':
+                            depth -= 1
+                        elif s[j] == '}':
+                            depth += 1
+                        if depth == 0:
+                            break
+                        j += 1
 
-            before = exp[:i]
-            after = exp[j+1:]
-            between = exp[i+1:j].split(',')
+                    options = helper(s[i+1 : j])
+                    curr = {a+b for a in curr for b in options}
+                    i = j+1
 
-            for k in  between:
-                dfs(before + k + after)
+                elif s[i] == ',':
+                    parts |= curr
+                    curr = {""}
+                    i += 1
 
-        dfs(expression)
-        return sorted(list(res))
+                else:
+                    curr = {x + s[i] for x in curr}
+                    i += 1
+            parts |= curr
+            return parts
+        return sorted(helper(expression))
