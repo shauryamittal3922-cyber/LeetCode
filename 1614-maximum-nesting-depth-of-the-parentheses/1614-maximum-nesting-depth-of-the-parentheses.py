@@ -7,8 +7,7 @@ class Solution:
             if s[i] == '(':
                 bracket += 1
             elif s[i] == ')':
-                if max_depth < bracket:
-                    max_depth = bracket
+                max_depth = max(max_depth, bracket)
                 bracket -= 1
             else:
                 pass
