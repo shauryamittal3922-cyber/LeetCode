@@ -200,6 +200,7 @@
 | [0115-distinct-subsequences](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0242-valid-anagram](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -222,6 +223,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -292,6 +294,7 @@
 | [0022-generate-parentheses](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
