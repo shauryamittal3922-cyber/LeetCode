@@ -101,6 +101,7 @@
 | [3525-find-x-value-of-array-ii](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -164,6 +165,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -276,6 +278,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
