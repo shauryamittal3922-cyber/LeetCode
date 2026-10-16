@@ -97,6 +97,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -124,6 +125,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Dynamic Programming
@@ -300,6 +302,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## DP on Trees
 | Problem Name | Difficulty |
@@ -337,4 +340,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 <!---LeetCode Topics End-->
