@@ -20,6 +20,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0013-roman-to-integer](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0048-rotate-image](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0836-rectangle-overlap](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
@@ -85,6 +86,7 @@
 | [0031-next-permutation](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0048-rotate-image](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -277,6 +279,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0835-image-overlap](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
