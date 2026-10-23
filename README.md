@@ -104,6 +104,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
@@ -273,6 +274,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Binary Search
