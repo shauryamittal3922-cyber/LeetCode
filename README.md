@@ -23,6 +23,7 @@
 | [0048-rotate-image](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0062-unique-paths/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0836-rectangle-overlap](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -98,6 +99,7 @@
 | [0118-pascals-triangle](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0835-image-overlap](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -189,6 +191,7 @@
 | [0088-merge-sorted-array](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
