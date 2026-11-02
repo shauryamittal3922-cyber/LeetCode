@@ -4,8 +4,5 @@ class Solution:
         moves = 0
 
         for num in nums:
-            if num > med:
-                moves += num - med
-            else:
-                moves += med - num
+            moves += abs(num - med)
         return moves
