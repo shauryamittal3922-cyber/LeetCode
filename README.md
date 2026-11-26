@@ -29,6 +29,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2409-count-days-spent-together](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
+| [3360-stone-removal-game](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -347,6 +348,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3360-stone-removal-game](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/shauryamittal3922-cyber/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
